@@ -21,7 +21,7 @@ From our data set, we noted that the crime count had been high up in the past ye
 
 ## Deliverables
 
-- [Full Report]()
+- [Full Report]({{site.baseurl}}/files/ML_Report.pdf)
 - [Slide Deck]()
 - [Executable Code]({{site.baseurl}}/files/Final_Project_code.ipynb)
 - Data Files:
