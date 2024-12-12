@@ -21,6 +21,11 @@ From our data set, we noted that the crime count had been high up in the past ye
 
 ## Deliverables
 
-- [Full Report]
-- [Slide Deck]
-- [Python Code]
+- [Full Report]()
+- [Slide Deck]()
+- [Executable Code]()
+- Data Files:
+  - [CRIME_CODES.csv]({{site.baseurl}}/files/Data_files/CRIME_CODES.csv)
+  - [Dec-2024-updated-data.csv]({{site.baseurl}}/files/Data_files/Dec-2024-updated-data.csv)
+  - [Part1_Crime_Beta.csv]({{site.baseurl}}/files/Data_files/Part1_Crime_Beta.csv)
+  - [preprocessed.csv]({{site.baseurl}}/files/Data_files/preprocessed.csv)
