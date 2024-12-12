@@ -1,4 +1,4 @@
-coursename: "Differential Equation PILOT at JHU"
-baseurl: "/SP25"
+coursename: "Machine Learning Final Project"
+baseurl: "/ML-F24-Project"
 markdown: kramdown
 highlighter: rouge
