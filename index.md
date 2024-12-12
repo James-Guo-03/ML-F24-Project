@@ -23,9 +23,9 @@ From our data set, we noted that the crime count had been high up in the past ye
 
 - [Full Report]()
 - [Slide Deck]()
-- [Executable Code]()
+- [Executable Code](Final_Project_code.ipynb)
 - Data Files:
   - [CRIME_CODES.csv]({{site.baseurl}}/files/Data_files/CRIME_CODES.csv)
-  - [Dec-2024-updated-data.csv]({{site.baseurl}}/files/Data_files/Dec-2024-updated-data.csv)
-  - [Part1_Crime_Beta.csv]({{site.baseurl}}/files/Data_files/Part1_Crime_Beta.csv)
-  - [preprocessed.csv]({{site.baseurl}}/files/Data_files/preprocessed.csv)
+  - [2024_data.csv]({{site.baseurl}}/files/Data_files/2024_data.csv)
+  - [Part1_Crime_Beta.csv](https://livejohnshopkins-my.sharepoint.com/:x:/g/personal/sguo45_jh_edu/EfxwEcjaRGRJmUiexZOPyLAB-iKJYjaxuJiLZ41pqU-TiQ?e=YOL4F4) file is too big, so it is on OneDrive rather than GitHub, we preprocessed the data to be the following smaller file that contains data after 2016 only:
+    - [preprocessed.csv]({{site.baseurl}}/files/Data_files/preprocessed.csv)
