@@ -23,7 +23,7 @@ From our data set, we noted that the crime count had been high up in the past ye
 
 - [Full Report]()
 - [Slide Deck]()
-- [Executable Code](Final_Project_code.ipynb)
+- [Executable Code]({{site.baseurl}}/files/Final_Project_code.ipynb)
 - Data Files:
   - [CRIME_CODES.csv]({{site.baseurl}}/files/Data_files/CRIME_CODES.csv)
   - [2024_data.csv]({{site.baseurl}}/files/Data_files/2024_data.csv)
