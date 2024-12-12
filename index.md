@@ -18,6 +18,6 @@ From our data set, we noted that the crime count had been high up in the past ye
 
 ## Deliverables
 
-- Full Report
-- Slide Deck
-- Python Code
+- [Full Report]
+- [Slide Deck]
+- [Python Code]
