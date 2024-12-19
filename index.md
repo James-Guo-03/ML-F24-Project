@@ -22,9 +22,10 @@ From our data set, we noted that the crime count had been high up in the past ye
 ## Deliverables
 
 - [Full Report]({{site.baseurl}}/files/ML_Report.pdf)
-- [Slide Deck]()
+- [Slide Deck]({{site.baseurl}}/files/ML_Slides.pdf)
 - [Executable Code]({{site.baseurl}}/files/Final_Project_code.ipynb)
 - Data Files:
+  - [Baltimore-Map-Maryland.png]({{site.baseurl}}/files/Data_files/Baltimore-Map-Maryland.png)
   - [CRIME_CODES.csv]({{site.baseurl}}/files/Data_files/CRIME_CODES.csv)
   - [2024_data.csv]({{site.baseurl}}/files/Data_files/2024_data.csv)
   - [Part1_Crime_Beta.csv](https://livejohnshopkins-my.sharepoint.com/:x:/g/personal/sguo45_jh_edu/EfxwEcjaRGRJmUiexZOPyLAB-iKJYjaxuJiLZ41pqU-TiQ?e=YOL4F4) file is too big, so it is on OneDrive rather than GitHub, we preprocessed the data to be the following smaller file that contains data after 2016 only:
