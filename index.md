@@ -24,6 +24,7 @@ From our data set, we noted that the crime count had been high up in the past ye
 - [Full Report]({{site.baseurl}}/files/ML_Report.pdf)
 - [Slide Deck]({{site.baseurl}}/files/ML_Slides.pdf)
 - [Executable Code]({{site.baseurl}}/files/Final_Project_code.ipynb)
+- [Compressed Data Files](https://livejohnshopkins-my.sharepoint.com/:u:/g/personal/sguo45_jh_edu/ES-1-1AkuuhNqONojGQ3k94Bs1DchRlqcY-d96qrJ6MV1Q?e=ghXRux)
 - Data Files:
   - [Baltimore-Map-Maryland.png]({{site.baseurl}}/files/Data_files/Baltimore-Map-Maryland.png)
   - [CRIME_CODES.csv]({{site.baseurl}}/files/Data_files/CRIME_CODES.csv)
